@@ -10,17 +10,20 @@ However, the results are not perfect, primarily due to computational limitations
 
 ## Refference
 Dataset from https://github.com/Yuxinn-J/Scenimefy
+
 Model Implementation from https://github.com/cyclomon/UNSB
 
 ## Citation
+```bibtex
 @inproceedings{jiang2023scenimefy,
   title={Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation},
   author={Jiang, Yuxin and Jiang, Liming and Yang, Shuai and Loy, Chen Change},
   booktitle={ICCV},
   year={2023}
 }
-
+```
 ## Citation
+```bibtex
 @InProceedings{
   kim2023unsb,
   title={Unpaired Image-to-Image Translation via Neural Schrödinger Bridge},
@@ -28,6 +31,7 @@ Model Implementation from https://github.com/cyclomon/UNSB
   booktitle={ICLR},
   year={2024}
 }
+```
 
 
 
